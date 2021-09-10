@@ -76,6 +76,12 @@ BOT_EMAIL = 'yoursasebot@webex.bot'
 You need to expose the server bot publicly so Webex can send webhooks. You can do this with
 ngrok, Heroku, Amazon Lightsail, or any other method.
 
+By default, the flask server runs on port 5060. You may change this in [app.py](app.py):
+```python
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port='5060', debug=True)
+```
+
 #### Webhook Setup
 You need to set up two Webhooks:
 * All Endpoint - For receiving any other events
