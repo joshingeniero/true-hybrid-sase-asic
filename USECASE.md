@@ -21,4 +21,4 @@ For testing MX Firewall settings - [Meraki Enterprise sandbox](https://devnetsan
 
 [Meraki Python SDK](https://developer.cisco.com/learning/lab/meraki-10-python-sdk/step/1)
 
-[Umbrella Reporting API's]9https://developer.cisco.com/learning/lab/Umbrella-Reporting-APIs-Intro/step/1
+[Umbrella Reporting API's](https://developer.cisco.com/learning/lab/Umbrella-Reporting-APIs-Intro/step/1)
